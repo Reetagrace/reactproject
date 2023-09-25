@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactproject/static/js/main.c3faf42e.js",
+    "index.html": "/reactproject/index.html",
+    "main.c3faf42e.js.map": "/reactproject/static/js/main.c3faf42e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c3faf42e.js"
+  ]
+}
